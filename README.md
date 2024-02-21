@@ -16,7 +16,7 @@
 
 [telegram](https://t.me/Universe_of_Reds)
 
-[discord](https://discord.com/channels/@me/1209545237509443584)
+[discord](https://discord.com/users/1180194967226957894)
 
 [steam](https://steamcommunity.com/profiles/76561199017382973/)
 
@@ -40,7 +40,7 @@ Here is a brand new project of *Hearts of Iron Ⅳ*, which contains elements of 
 
 [telegram](https://t.me/Universe_of_Reds)
 
-[discord](https://discord.com/channels/@me/1209545237509443584)
+[discord](https://discord.com/users/1180194967226957894)
 
 [steam](https://steamcommunity.com/profiles/76561199017382973/)
 
@@ -64,7 +64,7 @@ More files will appear in this project in the future.
 
 [telegram](https://t.me/Universe_of_Reds)
 
-[discord](https://discord.com/channels/@me/1209545237509443584)
+[discord](https://discord.com/users/1180194967226957894)
 
 [steam](https://steamcommunity.com/profiles/76561199017382973/)
 
