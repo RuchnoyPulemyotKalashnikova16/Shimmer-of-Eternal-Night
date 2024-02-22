@@ -26,6 +26,8 @@ README.md：就是你现在在看的东西XP
 
 sen-AAR(demo)-chs.md：简体中文版的我们mod的历史大事记
 
+sen-AAR(demo)-eng.md：英文版的我们mod的历史大事记
+
 未来将会有更多的文件出现在此项目中
 
 ### English
@@ -50,6 +52,8 @@ README.md: It's the file you read now. XP
 
 sen-AAR(demo)-chs.md: It's the list of historical events of this mod in simplified chinese. 
 
+sen-AAR(demo)-eng.md: It's the list of historical events of this mod in English.
+
 More files will appear in this project in the future.
 
 ### 繁體中文
@@ -73,5 +77,7 @@ More files will appear in this project in the future.
 README.md：就是你現在在看的東西XP
 
 sen-AAR(demo)-chs.md：簡體中文版的我們mod的歷史大事記
+
+sen-AAR(demo)-eng.md：英文版的我們mod的歷史大事記
 
 未來將會有更多的文件出現在此項目中
