@@ -130,21 +130,21 @@
 
 **1950**: North Korea attacked South Korea, Korea war **began**.
 
-**1951**: The Greek Civic War **ended**. Communist Party of Greece(KKE) won. The Greek Democratic Socialism Republic(GDSR) was established
+**1951**: The Greek Civic War **ended**. Communist Party of Greece(KKE) won. The Hellenic Democratic Socialism Republic(HDSR) was established.
 
 **1952**: The Korea war **ended**. North Korea and South Korea took 38th parallel as Military Demarcation Line.
 
 **1952**: "The Great Depression" **ended**. Most of western capitalist countries began recovery.
 
-**1953**: The Great Purge **ended**. Stalin's revisionist line(in SEN, Stalin is a revisionist.) became the mainstream ideology in the most of Eastern Europe.
+**1953**: The Great Purge **ended**. Stalin's totalitarian revisionism line(in SEN, Stalin is a totalitarian revisionist.) became the mainstream ideology in the most of Eastern Europe.
 
-**1956**: The Hungarian October Revolution began, which is an anti-revisionism revolution and a practice of socialist democracy. It was strangled by USSR.
+**1956**: The Hungarian October Revolution began, which is an anti-totalitarian revisionism revolution and a practice of socialist democracy. It was strangled by USSR.
 
 **1957**: To get rid of superpowers' control and advance the integration of Europe, European Economic Community(EEC) was established.
 
 **1957**: USSR launched the first satellite called Sputnik-1.
 
-**1958**: Great Leap Forward and Hundred Flowers Campaign began. Because of conservative and capitalist roaders, the practice of Hundred Flowers Campaign was stopped and Great Leap Forward became a farce that defamed the reputation of public ownership and scientific socialism.
+**1958**: Great Leap Forward and Hundred Flowers Campaign began in China. Because of conservative and capitalist roaders, the practice of Hundred Flowers Campaign was stopped and Great Leap Forward became a farce that defamed the reputation of public ownership and scientific socialism.
 
 **1959**: The transaction of Chimeras appeared on black market. Chimeras entered the public eye.
 
@@ -154,9 +154,9 @@
 
 **1962**: The British Civic War **began**, which is also called the Third Irish War of Independence, aggravated by the intensification of social contradictions in Britain.
 
-**1963**: Kennedy  was assassinated.(~~You can't escape it, Kennedy. ƪ(˘⌣˘)ʃ~~)
+**1963**: Kennedy  was assassinated.(~~You can't escape it anyway, Kennedy. ƪ(˘⌣˘)ʃ~~)
 
-**1963**: The guerrillas of Irish Republican Army(IRA) landed in Britain to execute harassment operations. To inspire the confidence among those who support the government, Mosley gave a famous speech in London.(*We shall fight on the beaches*: $\cdots$we shall never surrender.)(~~Churchill: f*ck.~~)(PS: IRA became differentiation gradually over time. The organizations which adhere to the name of the IRA are not only Irish separatists but also a large number of long-suppressed groups on the British left.) But the black premium Land Rover which is responsible for picking up Mosley after his speech is filled with assassins belonging to IRA. Mosley was kidnapped to the outskirt, beaten to death.(~~kibou no hana~~)
+**1963**: The guerrillas of Irish Republican Army(IRA) landed in Britain to execute harassment operations. To inspire the confidence among those who support the government, Mosley gave a famous speech in London.(We shall fight on the beaches$\cdots$*we shall never surrender*.)(~~Churchill: f*ck.~~)(PS: IRA became differentiation gradually over time. The organizations which adhere to the name of the IRA are not only Irish separatists but also a large number of long-suppressed groups on the British left.) But the black premium Land Rover which is responsible for picking up Mosley after his speech is filled with assassins belonging to IRA. Mosley was kidnapped to the outskirt, beaten to death.(~~kibou no hana~~)
 
 **1963**: British Deputy Prime Minister who belongs to Conservative and Unionist Party(CP), assumed the duties of Mosley. British political circles started to eliminate the power of BUF.
 
@@ -166,7 +166,7 @@
 
 **1966**: Mao Zedong(Mao) publish the article called *Bombard the Headquarters* and Cultural Revolution **began**.
 
-**1967**: The Third Arab–Israeli conflict began. Israel’s Nazification tendency has intensified Unprecedentedly.
+**1967**: The Third Middle East War began. Israel’s Nazification tendency has intensified Unprecedentedly.
 
 **1968**: Zenkyōtō(All-Campus Joint Struggle Committees) broke out, suppressed by Japan Self-Defense Force(JSDF) and United States Forces Japan(USFJ) later.
 
@@ -182,13 +182,13 @@
 
 **1973**: Britain joined EEC.
 
-**1973**: The Forth Arab–Israeli conflict began, the first oil crisis began.
+**1973**: The Forth Middle East War began, the first oil crisis began.
 
 **1975**: Valery Sablin, who is a political commissar of Soviet Navy, started the Second Russian October Revolution. The broadcast on *Storozhevoy* played successfully, but *Storozhevoy* was destroyed with missiles on Brezhnev's order when landing Leningrad. And small scale riot caused by broadcast in USSR were repressed cruelly.
 
-**1976**: Cultural Revolution was formally **ended** by the violent intervention of Liu-Deng capitalist roaders. Gang of Four dead in battle with capitalist roaders.
+**1976**: Cultural Revolution was formally **ended** by the violent intervention of Liu-Deng capitalist roaders. Gang of Four dead in battle with capitalist roaders. CCP troops entered Northeast China for thorough investigation.
 
-**1978**: Liu Shaoqi dead. Deng Xiaoping actual control of China's political situation. Chinese economic reform **began**.
+**1978**: Liu Shaoqi dead. Deng Xiaoping actual control of China's political situation. Chinese economic reform **began**. The Chinese government suppressed the uprising in Northeast China. The three northeastern provinces had joint provincial autonomy. However, they were effectively blocked apart from other parts of China by the central government.
 
 **1979**: Mrs. Thatcher was elected Prime Minister of Britain, carrying out the first large-scale practice of objectivism in human history. The welfare state project of Britain was completely bankrupt. All industries are fully privatized.
 
@@ -206,7 +206,7 @@
 
 **1985**: The NATO Human Brain Bionic Engineering Department in Atlanta, United States created the first human brain bionic quantum computer. In the same year, the project team install a bionic body for it. That is, the first Bionic-type AI(BTA, or Android) was born.
 
-**1985**: Mrs. Thatcher was temporarily diverted after an unsuccessful assassination attempt on her way to attend a Falklands War Victory Day speech. Then she happened to drive into a commercial street where another IRA assassin was having lunch. The assassin throws fish and chips onto car windshield. The driver was frightened, then the car turned sharply to the right and rolled over. Mrs. Thatcher was trapped in car by side door airbag. This assassin stuck his pistol through the car window, saying “We'll dance on your grave, Mrs. Thatcher”. Then he shot her three rounds in the head and left the scene amid cheers from the surrounding crowd.
+**1985**: Thatcher was temporarily diverted after an unsuccessful assassination attempt on her way to attend a Falklands War Victory Day speech. Then she happened to drive into a commercial street where another IRA assassin was having lunch. The assassin throws fish and chips onto car windshield. The driver was frightened, then the car turned sharply to the right and rolled over. Thatcher was trapped in car by side door airbag. This assassin stuck his pistol through the car window, saying “We'll dance on your grave, Mrs. Thatcher”. Then he shot her three rounds in her head and left the scene amid cheers from the surrounding crowd.
 
 **1985**: Britain was forced to recognize the independence of Ireland (including Northern Ireland). The Third Irish War of Independence **ended** with Ireland's victory.
 
@@ -214,7 +214,7 @@
 
 **1989**: Revolutions of 1989 happened.
 
-**1989**: 89 Democracy Movement happened. Tiananmen Square massacre happened.
+**1989**: China 89 Democracy Movement happened. Tiananmen Square massacre happened.
 
 **1989**: Mao passed away in Chingkang Mountains.
 
@@ -222,4 +222,166 @@
 
 **1991**: Gulf War happened.
 
-**1991**: The USSR collapsed and the Cold War **ended**.
+**1991**: The USSR collapsed and the Cold War **ended**. The Commonwealth of Independent States(CIS) inherited the legacy of the WP.
+
+**1992**: Yugoslavia disintegrated. Bosnian War **began**.
+
+**1992**: NATO sent forces to interfere in Balkan regional affairs. HSDR was invaded and subverted. Hellenic Republic was established.
+
+**1993**: The European Union(EU) was established.
+
+**1995**: The World Trade Organization(WTO) was formal established.
+
+**1992**: Bosnian War **ended**.
+
+**1999**: Kosovo War began.
+
+**2000**: Al Qaeda carried out terrorist attacks on the US by using dirty bombs.
+
+**2003**: The Second Gulf War **began**. The US began global war on terror and turned Iraq, Afghanistan and other places into new weapons testing sites.
+
+**2005**: The US military launched Project BLACKBOX to develop Learning-type AI(Intelligent Machines, or IM). (Where is Uni-Sci? Well, they are still here! XD)
+
+**2006**: JSDF deployed Androids at the recruitment site. From then on, Androids entered the public view.
+
+**2008**: The US subprime mortgage crisis leaded to global economic crisis. Left the seeds of greater global economic crisis than the Great Depression for the future.
+
+**2011**: Fukushima Nuclear Power Plant suffered a nuclear leak after the earthquake.
+
+**2014**: Russia annexed Crimea. Donbas War began.
+
+**2016**: BREXT began. US-China Trade War happened.
+
+**2017**: Hong Kong Anti-Extradition Law Amendment Bill Movement began. China authority forceful suppression this movement, leaving the seeds of state divided in the future.
+
+**2019**: COVID-19 epidemic **broke out** globally.
+
+**2020**: Britain officially left the EU.
+
+**2021**: Fukushima earthquake happened. Japan dumped nuclear waste from Fukushima nuclear power plant accident into Pacific Ocean. China, Russia and the US organized a coalition army stationed in Japan.
+
+**2022**: Russian-Ukrainian War **broke out**.
+
+**2023**: COVID-19 epidemic basically **ended**.
+
+**2023**: Palestinian-Israeli conflict **began**.
+
+**2023**: A hazardous chemicals transport train was rollover and caused chemical gas leak in Ohio State,US. It seems just an ordinary chemical leakage incident, however, the leaking gas is exactly the nerve agents called "Silver Cross", which is specially designed to deal with Modified Humans. This event is highly related to "Silver Cross" are reverse engineered years later.
+
+**2024**: The Palestinian-Israeli conflict expanded. The Sixth Middle East War **broke out**. The Likud Group started to promote the complete Nazification of Israeli politics. Islamic forces in Middle East were further extreme and make terrorist attacks more frequent and violent. Iran, with the support of China and Russia, stationed the Middle East battlefield, also, Palestine and Afghan Taliban were supported by China and Russia. They fought with US-backed Israeli, Saudi Arabian and Yemeni government forces. Egypt remains neutral in this war.
+
+**2024**: Continuous global energy crisis began because of the Sixth Middle East War.
+
+**2024**: US election, Republican candidate Donald Trump won the presidential election.
+
+**2024**: Tokyo went into radio silence no long after being completely nuclear contaminated. Uni-Sci forces stationed in Tokyo and started to undergo complete terraforming.
+
+**2025**: Russian-Ukrainian War expanded into Eastern European War. The Commonwealth of Independent States breaks up.
+
+**2025**: Ukraine was divided. Eastern Ukraine was incorporated into Russia with Crimea while Western Ukraine inherited former national power and continued the war.
+
+**2025**: India was divided due to the unprecedented intensification of ethnic and social conflicts. Pakistan takes advantage of opportunity to intervene in Kashmir.
+
+**2026**: Sahara Desert Green Protection Belt became invalid due to climate change. The Sahara Desert began to expand southward at an alarming rate.
+
+**2026**: Powers in developed areas put pressure on African countries. Those African countries in exile due to climate issues were forced to accept exchange of debt for sovereignty. Imperialist forces included the US and China, took this opportunity to seize a large amount of African resources.
+
+**2027**: The Suez Canal was completely blocked by river sand.
+
+**2027**: The 21st National Congress of the CCP(NCCCP) was held. Wang Huning won the chairman election due to rigged elections. Only then did people discover that Xi Jinping had died of pancreatic cancer in 2024, although the "rumor" had been refuted by the authority before. This incident was considered by later generations to be the official practice of political esotericism in China. 
+
+**2028**: Western Europe was forced to use a large number of traditional energy sources to fill the growing energy gap.
+
+**2029**: Australia became extremely dry due to climate change and had experienced massive wildfires. The government was unable to provide disaster relief.
+
+**2030**: The Eastern European War heated up. The Russian Federation was disintegrated. Russian Provisional Military Government was Established. Eastern Europe was completely caught in warlord melee. Siberia became anarchy.
+
+**2031**: According to data from the International Mercenary Organization, Chimeras who originally existed in Eastern Europe almost all absconded.
+
+**2032**:  The national power of Eastern Europe completely collapsed. Only NATO and Russian regular troops or mercenaries were left fighting in the area.
+
+**2032**: Russian Arctic Military Zone was taken over by Androids who were in it.
+
+**2033**: Modified Human rebellion broke out in CIS secret laboratory which was set up in Balkan. They executed all of the management staffs and pretended that the laboratory was still functioning normally.
+
+**2033**: NATO and Russian troops withdrew from Baltic region since the region was almost reduced to a wasteland. A group of Chimeras settled in this region and transformed it into a safe base.
+
+**2033**: The university town area in Eastern Siberia, Russia, was taken over by local student association.
+
+**2034**: Androids located in Kyushu, Shikoku, parts of Honshu and Okinawa Islands took over the military bases there.
+
+**2034**: Most of Australia's residential areas were destroyed and unable to be rebuilt and large numbers of Australian refugees fled overseas. Android troops took the opportunity to occupy all of Australia. Oceania Military Special Zone was established.
+
+**2035**: The global energy supply chain suffered heavy losses because of long-lasting wars, including the Sixth Middle East War and the Eastern European War. Energy crisis finally broke out.
+
+**2035**: Europe is hit by unprecedented winter cold snap at the end of this year. More than 2 million people were froze to death.
+
+**2035**: The University Town Area of Eastern Siberia announced the establishment of Liberty Area of Siberia(LAS). Yuri Bakunina Zhukoskaya was elected as the diplomatic representative. LAS started the practice of anarchist-communism.
+
+**2036**: Western Europe could no longer fill its energy gap. Demonstrations took place in various places and later escalated into full-scale civil unrest. A large number of countries withdrew from the UN, including UK and France.
+
+**2036**: NATO Western European Military Zone signed a temporary armistice treaty with Russian Provisional Military Government. Eastern Europe War **ended**.
+
+**2036**: NATO convened emergency meeting, later US troops began stationing in large numbers at NATO bases in Western Europe. The US military intervened in the situation in Western Europe.
+
+**2036**: The U.S. military begins to take over all NATO laboratories in Western Europe.
+
+**2036**: Constantine Alexeyevich Krupski, research director of the secret NATO biochemical laboratory located on the border of France and Belgium, was arrested for reverse engineering "Silver Cross" nerve agent, he successfully developed an antidote. Krupski was executed by NATO gendarmerie no long after his arrest. Gendarmerie troops were stationed in the laboratory, however, the laboratory suddenly lost contact. NATO soon confirmed that a Modified Human uprising, which was led by a BMH called Realitina, had broke out. "Institute" Guerrilla was established, then they deployed internal support personnel to military camps which Modified Human troops were stationed in various places.
+
+**2036**: Balkan CIS secret laboratory lost contact no long after internal support personnel of "Institute" were deployed. Russian Provisional Military Government received information quickly that Modified Human rebellion broke out in the lab and also all their management staffs were killed by rebel force leader Karsavina. "Neptun" Guerrilla was established. They got the antidote and its recipe soon.
+
+**2037**: A large number of Chimera missing cases were reported in parts of Eastern and Western Europe. Parts of military zones reported attack from "Institute" and "Neptun".
+
+**2037**: A group of BMH guerrillas were found by Liberty Area of Siberia. Some of them stayed local to help the local people to conduct research and industrialization, in return for this, the guerrillas received large amounts of supplies and urgent-needed vehicles.
+
+**2037**: "Institute" attack cases were reported globally. 
+
+**2038**: "Belgium Day", both two main forces of "Institute" and "Neptun" met at the border of Belgium.
+
+**2038**: Stock market crashed in the United States and its financial system collapsed. The Second America Civil War broke out. The United States withdrew from the UN.
+
+**2038**: China’s property market collapsed, destroying the entire financial system with it. 
+
+**2038**: It was reported that massive BMH attack cases **started** to broke out in NATO Military Zone worldwide. "Institute" Guerrilla provided antidote to NATO BMH troops and all of them fled away later.
+
+**2039**: China withdrew from the UN. The United Nations is dissolved.
+
+**2039**: The original global economic system collapsed completely. Large numbers of economic refugees appeared around the world.
+
+**2039**: Revolutionary Commune of Baltic(RCB) was formally established. Trev Garcipe was elected as the general secretary by People's Council.
+
+**2040**: Advocated by Global Black Market Platform, cryptocurrencies such as Bitcoin and Monero have replaced currencies issued by governments.
+
+**2040**: Androids in Russian Arctic Military Zone announced the formal establishment of Vanguard Domain of Arctic(VDA) . Tupolev Tu-160 SSHB was elected as the diplomatic representative.
+
+**2040**: Led by the Russian Provisional Military Government, the US authority government and the Chinese authority government, various countries held an international conference on extraordinary times. Global Security Council(GSC) was established to act as the UN Security Council.
+
+**2041**: An error occurred in the US automated military system. Protocol of Contingency was emerged. US overseas troops urgently returned to defend homeland.
+
+**2041**: Abnormal network fluctuations occurred in  and "back to normal" soon.
+
+**2042**: The German Civil War intensified and the country was completely divided.
+
+**2042**: The 24st National Congress of the CCP was held. The People's Congress would be cancelled and the NCCCP would assumes its functions. Also, the NCCCP would be held irregularly. As a result of this incident, a large-scale pro-democracy movement broke out in China. China was completely in a state of division.
+
+**2042**: Intelligent Machines in Alaska Military Experimental Zone of Project BLACKBOX launched a communist revolution, announced the formal establishment of Protocol of Emancipation. OGAS was elected as the diplomatic representative. The US government launched thousands of intercontinental missiles into Alaska and detonated all nuclear mines in Alaska. However, all the missiles were intercepted and only the residential areas there were destroyed.
+
+**2043**: War Zone of North America was established. The official government of the United States and Canadian government merged.
+
+**2043**: Androids in Australia announced the formal establishment of Futurist Zone of Oceania(FZO). Canberra-class SSN was elected as the diplomatic representative.
+
+**2043**: Quebec became independent after referendum. Democratic Republic of Quebec was established.
+
+**2043**: Scotland passed the independence referendum. Republic of Scotland was established. Scottish War of Independence broke out.
+
+**2044**: Androids in Japan announced the formal establishment of People's Republic of Japan(PRJ). Yukikaze-class DDG was elected as the diplomatic representative.
+
+**2045**: The Communist Interstellar was established. (Founding members: Revolutionary Commune of Baltic, Liberty Area of Siberia, Protocol of Emancipation, Vanguard Domain of Arctic, Futurist Zone of Oceania, People's Republic of Japan and "Institute" Guerrilla)
+
+**2047**: "Neptun" Guerrilla successfully unified Balkan region, announced the formal establishment of Socialist Federation of Balkan(SFB). Karsavina was elected as the general secretary. SFB joined the Communist Interstellar at the same year.
+
+**2048**: The 1st Congress of Communist Interstellar was held.
+
+**2048**: "Institute" Guerrilla infiltrated into Northern Europe region, captured Scandinavia, Finland, part of Russian border territory and Denmark with other Communist Interstellar members' military operations. Ultravisionary Socialist Republic of North Europe was established. Realitina was elected as the general secretary.
+
+**2049**: **THE GAME STARTS**
