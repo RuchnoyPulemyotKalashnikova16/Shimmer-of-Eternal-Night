@@ -46,6 +46,18 @@ sen-AAR(demo)-eng.md：英文版的mod历史大事记
 
 (Some content is translated by Google Translate. Although it has been proofread, its accuracy cannot be guaranteed.)
 
+After the second millennium, the capitalist world order ushered in its period of rapid rise. Although economic bubbles burst from time to time, and billions of people could only survive because the world needed them as mere fuel to be consumed until depleted, and despite ongoing controversies surrounding artificial life projects, however, as long as blood-stained money continued to flow and the numbers on stock exchange screens remained roughly stable and steadily improving, the ruling class—or rather, their self-perception—felt confident and secure. After all, all previous attempts to eliminate exploitation and oppression had ended in failure. Rapid technological advancement and paper-based economics served as the best shields. If these were insufficient, they could still resort to humanist traditions—where, here, the law of the jungle, survival of the fittest, and human dominance was supreme as the highest form of “care” for the world.
+
+Despite these circumstances, the differences between people sometimes resembled the distinctions between different species. Non-human intelligent species had allowed mainstream human society to find very few common points, to the extent that a new international organization called the “Community of Common Destiny (for Mankind)” emerged, replacing the United Nations, and enhancing a sense of racial pride and superiority among humans: Human-animal Chimeras became natural slaves and black market currency; Biochemically Modified Humans, long kept secret, found NATO and the CSTO willing to use them as cannon fodder and sacrifices in warfare and intelligence operations; as for intelligent machines, whether called bionic human brain supercomputers or learning-based hybrid balanced ternary supercomputers, they seemed to serve only as tools, with no other defined purpose.
+
+“History has ended,” declared a certain political economist, and it seemed indeed to be so. The world train continued to race forward at full speed, at the cost of blood and tears filling its tanks.
+
+However, history never unfolds as smoothly as people imagine. In 2025, with the second explosion at the Chernobyl nuclear reactor, the decade-long Eastern European War finally erupted, leading to the disintegration of NATO and CSTO. Subsequently, massive nuclear contamination spread across the oceans; Arctic cyclones moved southward; years of unprecedented winter cold spells and summer heatwaves caused global agricultural failures, directly leading to the deaths of millions. Energy crisis loomed behind the fog of war—rolling blackouts were no longer just science fiction scenarios but were gradually becoming reality, ready to sever the lifelines of modern human life at any moment. People endured about twelve years of panic and despair until one day in 2038, when the old international order collapsed entirely along with the global economic crisis and the complete breakdown of the world financial system. Non-human intelligent species rebellions swept across the globe; former slaves and tools, at this moment, choked the throat of the old world that had created them. Meanwhile, the seemingly dormant leftist movements surged anew, like a red flood gaining fresh vitality. The old world finally reached its final moment, wielding its last remaining experience, utter madness, and billions of lives under its control, attempting to spawn something terrifying enough to destroy everything—including itself.
+
+There was no room for neutrality, no one could stand outside this chaos; there was nowhere to escape or hide. Whether this chapter of history would continue as before, move toward dawn, or plunge into eternal night was unknown. But what was certain was that, beforehand, it was necessary to whip up a fierce storm of bullets, rain down missiles like a torrential downpour, and activate all Dead Hand Systems. Now, the lights of civilizations go out— the grand spectacle is about to begin.
+
+----
+
 Here is a brand new project of *Hearts of Iron Ⅳ*, which contains elements of alternate history, anime and near-future sci-fi etc. Except for the copywriting, our project is in the early stage of project establishment at present. If you want to join us or communicate about the mod, you can send message to the following approach(Listed by priority of online frequency), we will contact you asap.
 
 [github(It's Here. XD)](https://github.com/L-CH-RadioStudio/Shimmer-of-Etenral-Night/issues)
@@ -71,6 +83,14 @@ More files will appear in this project in the future.
 ### 繁體中文
 
 (部分內容使用了google翻譯，雖然有校對過但不能保證其準確性)
+
+第二個千禧年後，資本主義世界秩序迎來了它的起飛，雖然時有經濟泡沫破裂，雖然億萬人能夠活著只是因為這個世界需要他們作為燃料消耗殆盡，雖然人工生命項目爭議不斷，但只要帶血的鈔票滾滾而來，只要證券交易所屏幕上的數字大致仍在穩中向好，統治者就——或者說他們自認為如此——能夠高枕無憂了，畢竟，此前所有關於消滅剝削和壓迫的嘗試都以失敗告終，飛速發展的科技和紙上經濟是最好的擋箭牌，如果這些還不夠，他們還能夠訴諸人文主義傳統，在這裡，它以弱肉強食適者生存和人類統治至高無上「關懷」著世人。
+儘管相當的情況下人與人之間的區別簡直就像是不同的物種，非人類智能物種讓人類社會主流找到了為數不多的共同點，以至於出現了“人類命運共同體”這一取代聯合國的國際組織，並增強了作為人類的種族自豪感和優越感：人獸嵌合體是天生的奴隸和黑市硬通貨；生化改造人長期不為人知，北約和集安都樂於讓這些他們成為戰爭和情報系統的砲灰和祭品；至於智械，無論是被稱為仿生型的人腦仿生超計算機還是被稱為學習型的複合型平衡三進制超級計算機，除了工具以外似乎也並無其他定位。
+“歷史已經終結”，某位政治經濟學家如是斷言，似乎也確實如此，世界列車繼續狂飆，代價是裝滿了油箱的血與淚。
+然而，歷史永遠不會像人們所設想的那樣風平浪靜。 2025年，隨著切爾諾貝利核反應爐的第二聲巨響，長達十年的東歐戰爭就此拉開序幕，北約和集安紛紛走向破碎。隨後，全球海洋核污染大規模擴散，北極氣旋南下，接連數年史無前例的冬季寒潮和夏季酷暑，導致全球農業歉收並直接致使數百萬人死去，能源危機在戰爭迷霧的背後向人們招手，大熄燈不再只是科幻小說的情景，它正一步一步向著現實的邊緣靠近，隨時準備好準備人類現代生活的主動脈。人們在惶惶不可終日中度過了大約十二年，直到2038年的一天，舊有的國際秩序隨著全球經濟危機和世界金融體系徹底崩潰一去不復返了。非人類叛亂席捲全球，曾經的奴隸和工具此時此刻扼住了創造出自身的舊世界的喉嚨，同時，看似沉寂許久的左翼運動此起彼伏，如同重獲新生的赤潮再次高漲。舊世界終於來到了它的最後關頭，用它最後僅剩的經驗和徹底的瘋狂，以及仍在其治下的億萬性命，嘗試誕生出能夠毀滅一切包括它自身的可麋之物。
+沒有任何中立可言，沒有任何人能夠置身事外，無處可逃，無處可躲，至於這次歷史將要去往何處，是一切照舊，還是走向黎明，抑或是墜入永夜，無人知曉。但是能夠確定的是，在此之前，必須讓子彈刮起狂風，導彈如暴雨傾盆，死手系統全部就緒，現在，燈火就此熄滅，好戲已經開場。
+
+----
 
 這是一個《鋼鐵雄心Ⅳ》的全新mod項目，這是一個擁有二次元、架空歷史、近未來科幻等要素的mod。 目前除了文案之外其餘都處於剛剛立項的階段，有意向加入我們製作組或者加入交流群的可以在以下地方(按在線頻繁程度的優先級列出)發送信息，我們會盡可能快地和你聯繫
 
