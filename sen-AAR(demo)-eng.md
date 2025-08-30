@@ -226,7 +226,7 @@
 
 **1989**: Revolutions of 1989 happened.
 
-**1989**: China 89 Democracy Movement happened. Tiananmen Square massacre happened.
+**1989**: China 1989 Democracy Movement happened. Tiananmen Square massacre happened.
 
 **1989**: Mao passed away in Chingkang Mountains.
 
@@ -334,69 +334,79 @@
 
 **2030**: The Baltic region has almost become wasteland so NATO and CSTO troops have pulled out entirely. Some Chimeras transformed the region into secure strongholds.
 
-**2031**: 
+**2031**: The JSDF Android forces where located in Kyushu, Shikoku, part of Honshu, and the Ryukyu Islands took over all military bases in these regions.
 
-**2031**: 
+**2031**: A Chimera slave factory located in former Algeria rose in revolt, successfully driving off the UN peacekeeping mercenaries.
 
 **2031**: According to data from the International Mercenary Organization, Chimeras who originally existed in Eastern Europe almost all absconded.
 
-**2031**: 
+**2031**: The First Siberian War was ended. On the postwar wasteland, some Chimeras set up shelters after escaping human control. Mako was elected as the Magistrate.
 
 **2032**:  The national power of Eastern Europe completely collapsed. Only NATO and Russian regular troops or mercenaries were left fighting in the area.
 
-**2032**: Russian Arctic Military Zone was taken over by Androids who were in it.
+**2032**: The Arctic and Far East military districts have been fully taken over by Androids from within. Government and  military personnel are executed or driven out.
 
-**2033**: Modified Human rebellion broke out in CIS secret laboratory which was set up in Balkan. They executed all of the management staffs and pretended that the laboratory was still functioning normally.
+**2033**: The secret laboratory established by CSTO in Belgrade was hit by a Modified Human uprising. With the assistance from The Underground Fire, the rebels executed all the management staff. Meanwhile, the lab continues to operate "as usual".
 
-**2033**: NATO and Russian troops withdrew from Baltic region since the region was almost reduced to a wasteland. A group of Chimeras settled in this region and transformed it into a safe base.
+**2034**:  The global energy supply chain suffered heavy losses because of long-lasting wars, including the Sixth Middle East War and the Eastern European War. Energy crisis finally broke out.
 
-**2033**: The university town area in Eastern Siberia, Russia, was taken over by local student association.
+**2034**: That winter, the whole world was hit by a record cold spell, and in Europe alone, over 2 million people froze to death.
 
-**2034**: Androids located in Kyushu, Shikoku, parts of Honshu and Okinawa Islands took over the military bases there.
+**2035**: Western Europe could no longer fill its energy gap. Demonstrations took place in various places and later escalated into full-scale civil unrest. A large number of countries withdrew from the UN, including UK and France.
 
-**2034**: Most of Australia's residential areas were destroyed and unable to be rebuilt and large numbers of Australian refugees fled overseas. Android troops took the opportunity to occupy all of Australia. Oceania Military Special Zone was established.
+**2035**: Under the instigation of "The Underground Fire", the CSTO troops mutinied and rose in full-scale rebellion, breaking away from their command. They joined forces with Chimeras in the Baltic Wastelands and set up revolutionary strongholds. Meanwhile, NATO soldiers collectively defied orders and launched a large-scale anti-war march.
 
-**2035**: The global energy supply chain suffered heavy losses because of long-lasting wars, including the Sixth Middle East War and the Eastern European War. Energy crisis finally broke out.
+**2036**: The CSTO has been dissolved. NATO European Highest Command signed a ceasefire agreement with Russian Provisional Military Government, ending the Eastern European War. The NATO troops were withdrawn to their homeland.
 
-**2035**: Europe is hit by unprecedented winter cold snap at the end of this year. More than 2 million people were froze to death.
-
-**2035**: 
-
-**2036**: Western Europe could no longer fill its energy gap. Demonstrations took place in various places and later escalated into full-scale civil unrest. A large number of countries withdrew from the UN, including UK and France.
-
-**2036**: NATO Western European Military Zone signed a temporary armistice treaty with Russian Provisional Military Government. Eastern Europe War **ended**.
+**2036**: The Nordic Reconstruction Economic Mutual Aid Association(NREMAA) was established.
 
 **2036**: NATO convened emergency meeting, later US troops began stationing in large numbers at NATO bases in Western Europe. The US military intervened in the situation in Western Europe.
 
 **2036**: The U.S. military begins to take over all NATO laboratories in Western Europe.
 
-**2036**: Constantine Alexeyevich Krupski, research director of the secret NATO biochemical laboratory located on the border of France and Belgium, was arrested for reverse engineering "Silver Cross" nerve agent, he successfully developed an antidote. Krupski was executed by NATO gendarmerie no long after his arrest. Gendarmerie troops were stationed in the laboratory, however, the laboratory suddenly lost contact. NATO soon confirmed that a Modified Human uprising, which was led by a BMH called Realitina, had broke out. "Institute" Guerrilla was established, then they deployed internal support personnel to military camps which Modified Human troops were stationed in various places.
+**2036**: A Modified Human uprising broke out in NATO Givet Base located at the border of France and Belgium. The antidote of "Silver Cross" toxicant has been developed. "Institute" Guerrilla was established, then they deployed internal support personnel to military camps which Modified Human troops were stationed in various places.
 
-**2036**: Balkan CIS secret laboratory lost contact no long after internal support personnel of "Institute" were deployed. Russian Provisional Military Government received information quickly that Modified Human rebellion broke out in the lab and also all their management staffs were killed by rebel force leader Karsavina. "Neptun" Guerrilla was established. They got the antidote and its recipe soon.
+**2036**: The "Institute" Guerrilla has made contract with "The Underground Fire". The Frankfort Great Calamity Campaign broke out, and the city of Frankfort became independent. "Institute" Guerrilla marched towards the Baltic region.
 
-**2037**: A large number of Chimera missing cases were reported in parts of Eastern and Western Europe. Parts of military zones reported attack from "Institute" and "Neptun".
+**2036**: All Androids in Western Europe have been confirmed to defected.
+
+**2036**: Free Knowledge Movement is reorganized into Knowledge Liberation Movement.
+
+**2036**: CSTO Belgrade secret laboratory lost contact no long after internal support personnel of "Institute" were deployed. Russian Provisional Military Government received information quickly that Modified Human rebellion broke out in the lab and also all their management staffs were killed by rebel force leader Karsavina. "Neptun" Guerrilla was established. They got the antidote and its recipe soon, also received a large group of defected Androids.
+
+**2036**: Some of the Androids in Western Europe defected to Benelux region and arrived at the battlefield ruins. They have also begun to set up their own strongholds.
+
+**2037**: A large number of Chimera missing cases were reported in parts of Eastern and Western Europe. Parts of military zones reported attack from Modified Human forces.
+
+**2037**: After receiving antidote samples from rebel BMH troops, Modified Humans in NATO Pieniny Base launched a rebellion, leaded to the establishment of Special Purify Zone. Monolith took office as Chief Supreme.
+
+**2037**: Massive military attacks had been reported in multiple regions of Eastern Europe. Special Purify Zone troops occupied Ukraine.
 
 **2037**: A group of BMH guerrillas were found by Liberty Area of Siberia. Some of them stayed local to help the local people to conduct research and industrialization, in return for this, the guerrillas received large amounts of supplies and urgent-needed vehicles.
 
-**2037**: "Institute" attack cases were reported globally. 
+**2037**: Special Purify Zone almost occupied the whole Belarus. 
 
-**2038**: "Belgium Day", both two main forces of "Institute" and "Neptun" met at the border of Belgium.
+**2037**: Most areas around the world have experienced BMH attack incidents, mostly caused by the "Institute" Guerrilla.
 
-**2038**: Stock market crashed in the United States and its financial system collapsed. The Second America Civil War broke out. The United States withdrew from the UN.
+**2038**: China's property market collapsed, taking down the entire financial system. China and other nations have withdrawn from the United Nations.
 
-**2038**: China’s property market collapsed, destroying the entire financial system with it. 
+**2038**: Stock market crashed in the United States and its financial system collapsed. Southern states and three West Coast states have declared their independence from the federal government. Both Confederacy of America and Communist Union of America are established. The Second America Civil War broke out. The United States and other nations withdrew from the UN. The United Nations is dissolved.
 
 **2038**: It was reported that massive BMH attack cases **started** to broke out in NATO Military Zone worldwide. "Institute" Guerrilla provided antidote to NATO BMH troops and all of them fled away later.
 
-**2039**: China withdrew from the UN. The United Nations is dissolved.
+**2038**: The original global economic system collapsed completely. Large numbers of economic refugees appeared around the world.
 
-**2039**: The original global economic system collapsed completely. Large numbers of economic refugees appeared around the world.
+**2039**: Revolutionary Commune of Baltic(RCB) was formally established. Trev Garcipe was elected as the general secretary by Workers, Peasants and Soldiers Council.
 
-**2039**: Revolutionary Commune of Baltic(RCB) was formally established. Trev Garcipe was elected as the general secretary by People's Council.
+**2040**: Androids in Russian Arctic Military Zone announced the formal establishment of Vanguard Domain of Arctic(VDA) . Storozhevoy was elected as the diplomatic representative.
+
+**2040**: 
+
+**2040**: 
 
 **2040**: Advocated by Global Black Market Platform, cryptocurrencies such as Bitcoin and Monero have replaced currencies issued by governments.
 
-**2040**: Androids in Russian Arctic Military Zone announced the formal establishment of Vanguard Domain of Arctic(VDA) . Tupolev Tu-160 SSHB was elected as the diplomatic representative.
+**2040**: 
 
 **2040**: Led by the Russian Provisional Military Government, the US authority government and the Chinese authority government, various countries held an international conference on extraordinary times. Global Security Council(GSC) was established to act as the UN Security Council.
 
