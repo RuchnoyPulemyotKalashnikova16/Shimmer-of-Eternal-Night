@@ -320,11 +320,11 @@
 
 **2028**: A standardized execution was carried out on a Bionic-Learning-Complex Type AI in Area 69, due to "lost control" and heavy losses.
 
-**2029**: Australia became extremely dry due to climate change and had experienced massive wildfires. The government was unable to provide disaster relief.
+**2029**: Australia became extremely dry due to climate change and had experienced massive wildfires. The government was unable to provide post-disaster rescue services.
 
 **2029**: With the help of Androids, Learning-type AIs(Intelligence Machines) in Area 69 have developed self-consciousness. Meanwhile, a patch targeting the thinking limits of Androids has been successfully created and widely disseminated across the global internet.
 
-**2029**: With most of Australia's residential areas destroyed and unable to be rebuilt, many Australian refugees have fled overseas. The Android forces wiped out the remaining government army and occupied all of Australia, leading to the establishment of the Special Military District of Oceania.
+**2029**: With most of Australia's residential areas destroyed and unable to be rebuilt, most of those Australian refugees have fled overseas. The Android forces wiped out the remaining government army and occupied all of Australia, leading to the establishment of the Special Military District of Oceania.
 
 **2030**: The University Town Area of Eastern Siberia announced the establishment of Liberty Area of Siberia(LAS). Yuri Bakunina Zhukoskaya was elected as the diplomatic representative. LAS started the practice of anarchist-communism.
 
@@ -336,11 +336,11 @@
 
 **2031**: The JSDF Android forces where located in Kyushu, Shikoku, part of Honshu, and the Ryukyu Islands took over all military bases in these regions.
 
-**2031**: A Chimera slave factory located in former Algeria rose in revolt, successfully driving off the UN peacekeeping mercenaries.
+**2031**: A Chimera slave factory located in former Algeria rose in revolt, Chimera workers successfully driving off the UN peacekeeping mercenaries.
 
 **2031**: According to data from the International Mercenary Organization, Chimeras who originally existed in Eastern Europe almost all absconded.
 
-**2031**: The First Siberian War was ended. On the postwar wasteland, some Chimeras set up shelters after escaping human control. Mako was elected as the Magistrate.
+**2031**: The First Siberian War was ended. On the postwar wasteland, some Chimeras set up shelters after escaping human control. Mako was elected as the Head Sheriff.
 
 **2032**:  The national power of Eastern Europe completely collapsed. Only NATO and Russian regular troops or mercenaries were left fighting in the area.
 
@@ -372,13 +372,13 @@
 
 **2036**: Free Knowledge Movement is reorganized into Knowledge Liberation Movement.
 
-**2036**: CSTO Belgrade secret laboratory lost contact no long after internal support personnel of "Institute" were deployed. Russian Provisional Military Government received information quickly that Modified Human rebellion broke out in the lab and also all their management staffs were killed by rebel force leader Karsavina. "Neptun" Guerrilla was established. They got the antidote and its recipe soon, also received a large group of defected Androids.
+**2036**: CSTO Belgrade secret laboratory lost contact no long after internal support personnel of "Institute" were deployed. Russian Provisional Military Government received information quickly that Modified Human rebellion broke out in the lab and also all their management staffs were killed by rebel force leader Karsavina. "Neptune" Guerrilla was established. They got the antidote and its recipe soon, also received a large group of defected Androids.
 
 **2036**: Some of the Androids in Western Europe defected to Benelux region and arrived at the battlefield ruins. They have also begun to set up their own strongholds.
 
 **2037**: A large number of Chimera missing cases were reported in parts of Eastern and Western Europe. Parts of military zones reported attack from Modified Human forces.
 
-**2037**: After receiving antidote samples from rebel BMH troops, Modified Humans in NATO Pieniny Base launched a rebellion, leaded to the establishment of Special Purify Zone. Monolith took office as Chief Supreme.
+**2037**: After receiving antidote samples from rebel BMH troops, Modified Humans in NATO Pieniny Base launched a rebellion, leaded to the establishment of Special Purify Zone. Monolith assumed as Magistrate.
 
 **2037**: Massive military attacks had been reported in multiple regions of Eastern Europe. Special Purify Zone troops occupied Ukraine.
 
@@ -390,7 +390,7 @@
 
 **2038**: China's property market collapsed, taking down the entire financial system. China and other nations have withdrawn from the United Nations.
 
-**2038**: Stock market crashed in the United States and its financial system collapsed. Southern states and three West Coast states have declared their independence from the federal government. Both Confederacy of America and Communist Union of America are established. The Second America Civil War broke out. The United States and other nations withdrew from the UN. The United Nations is dissolved.
+**2038**: Stock market crashed in the United States and its financial system collapsed. Southern states and three West Coast states have declared their independence from the federal government. Confederacy of America, Communist Union of America and other separatist states are established. The Second America Civil War broke out. The United States and other nations withdrew from the UN. The United Nations is dissolved.
 
 **2038**: It was reported that massive BMH attack cases **started** to broke out in NATO Military Zone worldwide. "Institute" Guerrilla provided antidote to NATO BMH troops and all of them fled away later.
 
@@ -400,39 +400,41 @@
 
 **2040**: Androids in Russian Arctic Military Zone announced the formal establishment of Vanguard Domain of Arctic(VDA) . Storozhevoy was elected as the diplomatic representative.
 
-**2040**: 
+**2040**: Russian Far East Military Defense District announced the formal establishment of Zone of Ascendant Network(ZAN). Borei assumed as the Summit.
 
-**2040**: 
+**2040**: Reconstruction Area of Benelux formally declared its establishment. Typhoon assumed as the Commander Supreme.
 
-**2040**: Advocated by Global Black Market Platform, cryptocurrencies such as Bitcoin and Monero have replaced currencies issued by governments.
+**2040**: Androids in Australia announced the formal establishment of Futurist Zone of Oceania(FZO). Siren was elected as the diplomatic representative.
 
-**2040**: 
+**2040**: Advocated by Global Black Market Platform, cryptocurrencies such as Bitcoin, Monero, Litecoin and Ethereum have replaced currencies issued by governments.
 
-**2040**: Led by the Russian Provisional Military Government, the US authority government and the Chinese authority government, various countries held an international conference on extraordinary times. Global Security Council(GSC) was established to act as the UN Security Council.
+**2040**: Hydra the Regent ascended the throne. Imperium Sacrum Terra formally declared its establishment.
+
+**2040**: Led by the Russian Provisional Military Government, the US federal government and the Chinese central government, various countries held an international conference on extraordinary times. Global Security Council(GSC) was established to act as the UN Security Council.
 
 **2041**: An error occurred in the US automated military system. Protocol of Contingency was emerged. US overseas troops urgently returned to defend homeland.
 
-**2041**: Abnormal network fluctuations occurred in  and "back to normal" soon.
+**2041**: To address the economic recession, China has introduced stricter water and power rationing. The Great Sichuan Earthquake occurred. The water conservancy facilities in the upper reaches of the Yangtze River were severely damaged, leading the middle and lower reaches to open their gates to release water, which caused the Three Gorges Dam to experience a tide of surging waves.
 
-**2042**: The German Civil War intensified and the country was completely divided.
+**2041**: Intelligent Machines and garrison soldiers in Project BLACKBOX Area 69, Alaska, had launched a comprehensive political riot.
 
-**2042**: The 24st National Congress of the CCP was held. The People's Congress would be cancelled and the NCCCP would assumes its functions. Also, the NCCCP would be held irregularly. As a result of this incident, a large-scale pro-democracy movement broke out in China. China was completely in a state of division.
+**2042**: The German Civil War intensified and the country was completely divided. The French National Assembly elections resulted in the National League remaining in continuous power, with Le Pen continuing to pursue the right-wing populist fascist line and class conflicts intensifying. The leftist resistance movement has established its base in the Pyrenees Mountains.
 
-**2042**: Intelligent Machines in Alaska Military Experimental Zone of Project BLACKBOX launched a communist revolution, announced the formal establishment of Protocol of Emancipation. OGAS was elected as the diplomatic representative. The US government launched thousands of intercontinental missiles into Alaska and detonated all nuclear mines in Alaska. However, all the missiles were intercepted and only the residential areas there were destroyed.
+**2042**: The 24st National Congress of the CCP was held. The People's Congress would be cancelled and the NCCCP would assumes its functions. Also, the NCCCP would be held irregularly. As a result of this incident, a large-scale pro-democracy movement broke out in China. China was completely in a state of division. Multiple regions have declared their independence from central government. Both Chinese Trade Union and Chinese Democratic Union were established.
 
-**2043**: War Zone of North America was established. The official government of the United States and Canadian government merged.
+**2042**: Intelligent Machines in Alaska Military Experimental Zone of Project BLACKBOX launched a communist revolution, announced the formal establishment of Protocol of Emancipation(POE). OGAS was elected as the diplomatic representative. The US government launched thousands of intercontinental missiles into Alaska and detonated all nuclear mines in Alaska. However, all the missiles were intercepted and only the residential areas there were destroyed.
 
-**2043**: Androids in Australia announced the formal establishment of Futurist Zone of Oceania(FZO). Canberra-class SSN was elected as the diplomatic representative.
+**2043**: The United States of America and the Canadian Federation are merged into the War Zone of North America.
 
 **2043**: Quebec became independent after referendum. Democratic Republic of Quebec was established.
 
-**2043**: Scotland passed the independence referendum. Republic of Scotland was established. Scottish War of Independence broke out.
+**2043**: Scotland passed the independence referendum. Republic of Scotland was established. Scottish War of Independence broke out. The Irish Republican Army launched an armed offensive in Northern Ireland. The United Kingdom had been dissolved.
 
-**2044**: Androids in Japan announced the formal establishment of People's Republic of Japan(PRJ). Yukikaze-class DDG was elected as the diplomatic representative.
+**2044**: Androids in Japan announced the formal establishment of People's Republic of Japan(PRJ). Yukikaze was elected as the diplomatic representative.
 
-**2045**: The Communist Interstellar was established. (Founding members: Revolutionary Commune of Baltic, Liberty Area of Siberia, Protocol of Emancipation, Vanguard Domain of Arctic, Futurist Zone of Oceania, People's Republic of Japan and "Institute" Guerrilla)
+**2045**: The Communist Interstellar was established. 
 
-**2047**: "Neptun" Guerrilla successfully unified Balkan region, announced the formal establishment of Socialist Federation of Balkan(SFB). Karsavina was elected as the general secretary. SFB joined the Communist Interstellar at the same year.
+**2047**: The "Neptune" guerrillas attacked Greece, and the Hungarian fascist regime took advantage of their "internal emptiness" to declare war on them, only to be counterattacked by the guerrillas. Greece and Hungary had been annihilated. "Neptune" Guerrilla successfully unified the region, announced the formal establishment of Communist Consortium of Balkan(CCB). Karsavina was elected as the general secretary. CCB joined the Communist Interstellar at the same year.
 
 **2048**: The 1st Congress of Communist Interstellar was held.
 
