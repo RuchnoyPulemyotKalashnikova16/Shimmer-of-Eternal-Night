@@ -1,5 +1,6 @@
 # SEN Intelligence Species Intro
 
+The main intelligence species of SEN is in the follow figure:
 $$
 \begin{cases}
 	\text{Natural Intelligence Organisms}
@@ -19,8 +20,6 @@ $$
 	\end{cases}
 \end{cases}
 $$
-
-
 
 ## Human(also see as Mankind, *offensive* "Ape")
 

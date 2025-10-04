@@ -4,11 +4,11 @@
 
 ## 介绍
 
-[主要介绍（半成品，待重写）](https://github.com/RuchnoyPulemyotKalashnikova16/Shimmer-of-Eternal-Night/blob/main/Intro-demo-chs.md)
+[主要介绍(半成品，待重写)](Intro/Intro-demo-chs.md)
 
-[历史大事记](https://github.com/RuchnoyPulemyotKalashnikova16/Shimmer-of-Eternal-Night/blob/main/sen-AAR(demo)-chs.md)
+[历史大事记(AAR)](AAR/SEN-AAR-chs.md)
 
-[主要智能物种介绍]()
+[主要智能物种介绍](Species/SEN-IntelligenceSpeciesIntro-chs.md)
 
 ## 联系方式
 

@@ -2,7 +2,7 @@
 
 SEN的智慧物种分类如下：
 
-```math
+$$
 \begin{cases}
 	天然智能生命
 	\begin{cases}
@@ -20,7 +20,7 @@ SEN的智慧物种分类如下：
 		仿生型智械
 	\end{cases}
 \end{cases}
-```
+$$
 
 ## 人类(蔑称“猴子”)
 
