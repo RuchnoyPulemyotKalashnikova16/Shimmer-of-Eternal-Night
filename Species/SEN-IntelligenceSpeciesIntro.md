@@ -1,6 +1,7 @@
 # SEN Intelligence Species Intro
 
 The main intelligence species of SEN is in the follow figure:
+
 $$
 \begin{cases}
 	\text{Natural Intelligence Organisms}
