@@ -18,8 +18,8 @@
 
 - [Matrix](https://matrix.to/#/#LCHpub:matrix.org)
 
-- [Discord](https://discord.g[discord](https://discord.gg/4yB7vjAYCy)g/4yB7vjAYCy)
+- [Discord](https://discord.gg/4yB7vjAYCy)
 
-- [Github issues](https://github.com/L-CH-RadioStudio/Shimmer-of-Etenral-Night/issues)
+- [Github issues](https://github.com/RuchnoyPulemyotKalashnikova16/Shimmer-of-Eternal-Night/issues)
 
 - [Telegram](https://t.me/+fzP-xBwf3u4yOGE1)
