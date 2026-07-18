@@ -9,12 +9,12 @@ $$
 		\text{Human}\\
 		\text{Alien Symbiote}\\
 	\end{cases}\\
-	\text{Artificial Organisms}
+	\text{Demihuman (Artificial Organisms)}
 	\begin{cases}
 		\text{Biochemically Modified Human}\\
 		\text{Human-animal Chimera}
 	\end{cases}\\
-	\text{Artificial Inorganics}
+	\text{Machines (Artificial Inorganics)}
 	\begin{cases}
 		\text{Learning-type AI}\\
 		\text{Bionic-type AI}
