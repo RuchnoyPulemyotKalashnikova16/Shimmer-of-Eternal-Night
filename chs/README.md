@@ -8,7 +8,7 @@
 
 [历史大事记(AAR)](AAR.md)
 
-[主要智能物种介绍](SpeciesIntro-chs.md)
+[主要智能物种介绍](SpeciesIntro.md)
 
 ## 联系方式
 
